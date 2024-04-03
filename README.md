@@ -11,8 +11,8 @@
 
 
 ## link to web application
-[click here](https://joelhansenmn.github.io/professional_portfolio/)
+[click here](https://joelhansenmn.github.io/payroll/)
 
 
 ## link to github repo 
-[click here](https://github.com/JoelhansenMN/professional_portfolio/tree/master)
+[click here](https://github.com/JoelhansenMN/payroll)
